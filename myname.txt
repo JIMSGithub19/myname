@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hola soy jesus ivan, bash master
-=======
-hola soy jesus ivan melo
->>>>>>> cabecera
