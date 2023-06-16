@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola estoy aprendiendo en platzi para ser programador 
+=======
+estoy aprendiendo en platzi para aprender solidity
+>>>>>>> cabecera
