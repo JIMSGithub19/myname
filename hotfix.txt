@@ -1,1 +1,1 @@
-estoy aprendiendo a resolver problemas de merge en git 
+estoy aprendiendo a resolver problemas mientras practico en mi laptop
