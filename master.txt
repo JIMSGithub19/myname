@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hola me llamo ivan
-=======
-ultimo inteto de master 
->>>>>>> cabecera
